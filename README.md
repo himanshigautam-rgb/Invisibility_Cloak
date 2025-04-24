@@ -22,6 +22,7 @@ This project implements a real-time invisibility cloak effect using Python, Open
 
 ### ▶️ Run the Script:
 Open a terminal or command prompt, navigate to the directory containing the script, and run:
+
        python c:\Users\dkvh2\Desktop\Invisibility_Cloak\Invisibility_Cloak.py
 
 #### 🧪 How It Works

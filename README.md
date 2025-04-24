@@ -20,12 +20,9 @@ This project implements a real-time invisibility cloak effect using Python, Open
    ```bash
    pip install opencv-python numpy matplotlib
 
-### ▶️ How to Run
-- Open a terminal or command prompt.
-- Navigate to the directory containing the script:
-     cd C:\Users\dkvh2\Desktop\Cloak
-- Run the script:
-     python Invisibility_Cloak.py
+### ▶️ Run the Script:
+Open a terminal or command prompt, navigate to the directory containing the script, and run:
+       python c:\Users\dkvh2\Desktop\Invisibility_Cloak\Invisibility_Cloak.py
 
 #### 🧪 How It Works
 - The program initializes the webcam and captures the background (a still scene without the cloak).

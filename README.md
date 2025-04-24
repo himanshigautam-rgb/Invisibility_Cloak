@@ -31,7 +31,7 @@ Open a terminal or command prompt, navigate to the directory containing the scri
 - The detected color is replaced with the captured background, creating the invisibility effect.
 - The output is displayed in a real-time Matplotlib window.
 #### ❌ Exiting the Program
-- To exit the program, press Ctrl+C in the terminal. 🖐️
+- To exit the program, press `Ctrl+C` in the terminal. 🖐️
 #### 🎥 Troubleshooting
 - Webcam Not Detected: Ensure your webcam is connected and not being used by another application.
 - Matplotlib Display Issues: Ensure matplotlib is installed and working correctly. Run pip install matplotlib if needed.
